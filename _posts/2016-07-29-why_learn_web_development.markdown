@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Learn Web Development"
-date:   2016-07-29 20:30:49 +0000
+date:   2016-07-29 16:30:49 -0400
 ---
 
 I am still an undergaduate student, and although I am majoring in Politics (which I am very passionate about), as I approach my senior year I am still very much undecided as to what career I'd like to pursue once I graduate. 
